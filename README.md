@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Anni194
+- 👋 Hi, I’m Aniket Kumar
 - 👀 I’m interested in coding, cooking and driving
 - 🌱 I’m currently learning data analysis and data science
 - 📫 How to reach me: aniket.anni194@gmail.com
